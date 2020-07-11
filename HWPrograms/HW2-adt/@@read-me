@@ -1,0 +1,16 @@
+
+  You may want to copy code from files in the HW1 directory
+
+  You can do this by copying the HW1 files here
+  You can use control-x 2 to split emacs screen in two parts.
+  Use control-o to go to the other part.
+  
+  Note that control-k cuts and control-y pastes
+
+  -----------------------
+
+  g++ hw2client.cpp rules.cpp
+  ./a.out
+
+  Never compile header files.
+

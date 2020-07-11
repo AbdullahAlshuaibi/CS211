@@ -1,0 +1,3 @@
+full slept : happy
+hungy sleepy : sad
+hot sunny : summer

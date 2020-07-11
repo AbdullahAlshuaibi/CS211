@@ -1,0 +1,10 @@
+
+  You may want to copy all the Lab files here before you begin.
+
+  copy ../../Labs/week1-3-review/* .
+
+  This says go up, go up, down to Labs, down to week1-3 files and 
+  copy everything here.
+
+  You can copy from a file to another file in emacs by
+  splitting an emacs screen into using control-X 2 control-X control-f
