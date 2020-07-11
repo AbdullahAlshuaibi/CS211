@@ -1,0 +1,8 @@
+
+  Be sure to copy week4 student class files to this directory first.
+
+  cp ../Labs/week4-adt/student* .
+
+  This says go up a level and down to Labs and then to week4-adt and
+  copy all student files here.
+

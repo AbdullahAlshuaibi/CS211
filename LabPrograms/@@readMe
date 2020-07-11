@@ -1,0 +1,42 @@
+cs211 Lab Programs
+
+  All Lab related questions should go to the lab instructor.
+  The lab instructor will set the deadline (strict) for all lab work.
+
+  These files must be used to write your Lab programs!!
+
+  Always test your programs thoroughly before you are satisfied.
+
+COMPILE:
+g++ <list cpp files only>   
+Never never compile .h files.
+
+TO RUN:
+./a.out
+
+TO RECORD TEST RESULTS:
+/cs/recordhw <put a brand new file name here e.g. test.txt>
+
+compile here
+run here
+
+exit
+
+You may not edit the created file.
+
+TO SUBMIT:
+Unless otherwise instructed by your lab instructor, submit your required files
+to the lab instructor by using the following command:
+
+/cs/submit your-username  filename
+
+e.g.
+
+/cs/submit jones001  rulespractice.cpp
+/cs/submit jones001  transpractice.cpp
+
+Only one file can be submitted at a time.
+
+C++ Info:
+-------------
+Note that to use exit(1), you must include <stdlib.h> 
